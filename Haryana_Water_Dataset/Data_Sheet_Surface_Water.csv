@@ -1,0 +1,43 @@
+﻿Site,Year,pH,Odour,Turbidity,Conductivity,Chloride (ppm),Sulphates(ppm),Iron (ppm),COD(ppm),BOD(ppm),DO(ppm),Lead(ppm),Ammonia(ppm),Nitrate(ppm),Fluorides(ppm),Phosphates(ppm),Total Bacterial Count (cfu/ml),Total Fungal Count (cfu/ml),Pesticide (µg/l)
+Karan Lake (Site 1) (Surface Water),2016,6.7,NO,4.3,482,19,75,16.6,32.1,25.5,7.4,ND,0.3,9,ND,ND,500,<100,ND
+Karan Lake (Site 1) (Surface Water),2017,6.8,NO,5.8,445,19,71,16,34.2,23.2,7.6,ND,0.3,9,ND,ND,500,<100,ND
+Karan Lake (Site 1) (Surface Water),2018,7.1,NO,5.8,442,19.7,71,15.8,41.9,20.9,7.8,ND,0.5,11,ND,5,500,<100,ND
+Brahma Sarovar(Site 2) Surface Water ,2016,7.47,NO,1.99,582,12.6,85,15.05,84.2,15.4,7.2,ND,0,5,ND,ND,1200,300,ND
+Brahma Sarovar(Site 2) Surface Water ,2017,6.2,NO,2.3,634,13,90,13.55,86.2,16,6,ND,0.3,15,ND,ND,1300,300,ND
+Brahma Sarovar(Site 2) Surface Water ,2018,6.17,NO,3.01,642,13.2,95,17.55,89.8,16.4,6.8,ND,0.4,16,ND,ND,1500,300,ND
+Teekar Taal(Site 3) (Surface Water),2016,8.11,NO,5.6,320,9.4,19,4.6,32.2,23.6,7,ND,0.3,8,ND,ND,1100,200,ND
+Teekar Taal(Site 3) (Surface Water),2017,6.01,NO,6.8,322,13.1,24,5.1,33.3,25.1,5.3,ND,0.5,11,ND,ND,1100,200,ND
+Teekar Taal(Site 3) (Surface Water),2018,6.23,NO,7.1,332,16.1,31,5.4,34,27.6,5,ND,0.7,12,ND,ND,1200,200,ND
+Agra Canal(Site 1) (Surface Water),2016,7.14,NO,10.5,695,206.5,75,5.31,34.2,25.1,2.8,ND,0.5,45,ND,ND,6000,500,ND
+Agra Canal(Site 1) (Surface Water),2017,7.2,NO,11.5,712,224.5,81,6,36.1,27.3,2,ND,0.6,56,ND,ND,8000,600,ND
+Agra Canal(Site 1) (Surface Water),2018,7.3,NO,12.5,733,236.5,85,6.21,38.1,28.3,1.8,ND,0.7,65,ND,ND,9000,600,ND
+Yamuna River(Site 1) (Surface Water),2016,7.49,NO,2.1,476,19.35,50,3.8,24.4,16,6,ND,0.4,45,ND,ND,2800,400,ND
+Yamuna River(Site 1) (Surface Water),2017,7.5,NO,1.9,481,22.1,55,4,24.6,17.3,5.8,ND,0.5,54,ND,ND,2768,400,ND
+Yamuna River(Site 1) (Surface Water),2018,7.7,NO,2.5,526,23.35,57,4.2,25.3,18,5.4,ND,0.6,65,ND,ND,2890,450,ND
+Yamuna River(Site 2) (Surface Water),2016,7.43,NO,12.9,368,121.9,25,2.5,34,26.8,3.4,ND,0.6,45,ND,ND,100,<100,ND
+Yamuna River(Site 2) (Surface Water),2017,7.5,NO,13.4,378,128.8,39,3.2,38.6,27.4,3.6,ND,0.7,54,ND,ND ,100,<100,ND
+Yamuna River(Site 2) (Surface Water),2018,7.54,NO,14.5,389,132.9,45,3.8,45,28.8,2.4,ND,0.8,64,ND,ND,200,<100,ND
+Yamuna River(Site 3) (Surface Water),2016,7.8,NO,12.5,563,65.16,62,13.2,19,41,3.4,ND,12,10,ND,ND,3000,300,ND
+Yamuna River(Site 3) (Surface Water),2017,7.8,NO,12.6,573,70.3,70,13.6,20.3,46,2.8,ND,11.7,13,ND,ND,3000,300,ND
+Yamuna River(Site 3) (Surface Water),2018,7.9,NO,13.4,593,95.16,90,14.5,21.7,48.7,1.8,ND,14.2,14,ND,ND,3500,500,ND
+Yamuna Water(Site 4) (Surface Water),2016,7.51,NO,11.3,751,154.85,72,4.5,29.9,65,2.7,ND,0.2,52,ND,ND,400,<100,ND
+Yamuna Water(Site 4) (Surface Water),2017,7.5,NO,12,765,176.8,87,5.1,37.1,69.3,1.6,ND,0.2,58,ND,ND,450,<100,ND
+Yamuna Water(Site 4) (Surface Water),2018,7.62,NO,12.1,775,214.85,98,5.5,39,75,1.1,ND,0.23,65,ND,ND,500,<100,ND
+Ghaggar River(Site 1) (Surface Water),2016,7.5,NO,7.2,458,32.26,60,2.6,16,7.2,6.1,ND,0.5,45,ND,ND,200,<100,ND
+Ghaggar River(Site 1) (Surface Water),2017,7.7,NO,7.4,452,47.2,63,3.5,17.3,8.1,5.9,ND,0.6,56,ND,ND,300,<100 ,ND
+Ghaggar River(Site 1) (Surface Water),2018,7.8,NO,8,439,56.26,65,4.6,19.36,9.54,5.8,ND,0.8,65,ND,ND,400,<100,ND
+Ghaggar River(Site 2)(Surface Water),2016,7.03,NO,9.2,759,19.35,50,5.5,18.32,14.1,5.3,ND,0.3,45,ND,ND,1500,200,ND
+Ghaggar River(Site 2)(Surface Water),2017,7.4,NO,9.5,798,22.2,54,4.6,19.1,15.3,5.1,ND,0.4,56,ND,ND,1750,200,ND
+Ghaggar River(Site 2)(Surface Water),2018,7.5,NO,10.4,788,24.35,60,3.5,20.1,16.4,5,ND,0.6,67,ND,ND,1930,200,ND
+Ghaggar River(Site 3) (Surface Water),2016,7.01,NO,12.5,563,77.42,73,5.21,26,25.2,4.4,ND,0.5,45,0.5,ND,770,<100,ND
+Ghaggar River(Site 3) (Surface Water),2017,7.03,NO,13.3,576,77.87,75,5.87,27.4,25.8,4,ND,0.5,64,0.6,ND,795,<100,ND
+Ghaggar River(Site 3) (Surface Water),2018,7.05,NO,14.5,595,78.42,93,6.21,28,26.26,3.4,ND,0.5,75,0.5,ND,815,<100,ND
+Ghaggar River(Site 4) (Surface Water),2016,6.79,NO,20,763,135.79,20,2.16,30,36.4,1.6,ND,0.8,45,1.8,ND,5500,254,ND
+Ghaggar River(Site 4) (Surface Water),2017,6.8,NO,21,790,146,24.1,2.78,32.7,37.5,0,ND,1.4,57,2.28,ND,5959,280,ND
+Ghaggar River(Site 4) (Surface Water),2018,6.94,NO,21,813,154.49,24.8,2.99,34,38,0.8,ND,1.79,67,2.41,ND,6150,295,ND
+Ghaggar River(Site 5) (Surface Water),2016,7.34,NO,18.5,639,96.78,65,3.5,21,30.4,1.2,ND,1.3,59,1.1,ND,6500,<100,ND
+Ghaggar River(Site 5) (Surface Water),2017,7.4,NO,20.2,799,104.3,66,3.6,21.4,34.8,1,ND,1.4,62,0.9,ND,6450,<100,ND
+Ghaggar River(Site 5) (Surface Water),2018,7.45,NO,22.5,885,154.2,69,4.1,22.5,39,0,ND,1.7,65,1.3, ND,6980,<100,ND
+Markanda River(Site 1) (Surface Water),2016,7.72,NO,2.1,789,82.8,65,10.8,11.5,20.6,3.3,ND,0.3,55.75,0.41,ND,600,200,ND
+Markanda River(Site 1) (Surface Water),2017,7.6,NO,3.5,872,80.3,77,11,23.9,25.1,3.1,ND,0.4,59.9,0.49,ND,600,200,ND
+Markanda River(Site 1) (Surface Water),2018,7.76,NO,4.4,811,98.22,98,11,29,28.3,2.4,ND,0.6,68.4,0.48,ND,700,200,ND
