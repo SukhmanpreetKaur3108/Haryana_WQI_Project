@@ -1,0 +1,13 @@
+Model,Best Parameters,Water_Type
+Random Forest,"{""n_estimators"": 50, ""max_depth"": null, ""min_samples_split"": 2, ""criterion"": ""gini""}",Groundwater
+Gradient Boosting,"{""n_estimators"": 50, ""max_depth"": 3, ""min_samples_split"": 2, ""learning_rate"": 0.1, ""criterion"": ""friedman_mse""}",Groundwater
+XGBoost,"{""n_estimators"": 50, ""max_depth"": 3, ""learning_rate"": 0.05, ""gamma"": null}",Groundwater
+SVM,"{""C"": 10, ""gamma"": ""scale"", ""kernel"": ""rbf""}",Groundwater
+KNN,"{""n_neighbors"": 7, ""weights"": ""distance"", ""metric"": ""euclidean""}",Groundwater
+Decision Tree,"{""max_depth"": null, ""min_samples_split"": 2, ""criterion"": ""entropy""}",Groundwater
+Random Forest,"{""n_estimators"": 50, ""max_depth"": null, ""min_samples_split"": 2, ""criterion"": ""gini""}",Surface Water
+Gradient Boosting,"{""n_estimators"": 50, ""max_depth"": 3, ""min_samples_split"": 2, ""learning_rate"": 0.05, ""criterion"": ""friedman_mse""}",Surface Water
+XGBoost,"{""n_estimators"": 50, ""max_depth"": 3, ""learning_rate"": 0.05, ""gamma"": null}",Surface Water
+SVM,"{""C"": 10, ""gamma"": ""scale"", ""kernel"": ""rbf""}",Surface Water
+KNN,"{""n_neighbors"": 3, ""weights"": ""distance"", ""metric"": ""euclidean""}",Surface Water
+Decision Tree,"{""max_depth"": null, ""min_samples_split"": 2, ""criterion"": ""gini""}",Surface Water

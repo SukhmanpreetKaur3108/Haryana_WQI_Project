@@ -1,0 +1,7 @@
+Model,Training Accuracy,Training Precision,Training Recall,Training F1,Training MCC,4-Fold CV F1
+Random Forest,1.0,1.0,1.0,1.0,1.0,0.9691484985602633
+Gradient Boosting,1.0,1.0,1.0,1.0,1.0,1.0
+XGBoost,1.0,1.0,1.0,1.0,1.0,0.949295293223187
+SVM,1.0,1.0,1.0,1.0,1.0,0.9691484985602633
+KNN,1.0,1.0,1.0,1.0,1.0,0.9691484985602633
+Decision Tree,1.0,1.0,1.0,1.0,1.0,1.0

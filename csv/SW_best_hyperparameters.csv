@@ -1,0 +1,7 @@
+Model,Best Parameters
+Random Forest,"{""n_estimators"": 50, ""max_depth"": null, ""min_samples_split"": 2, ""criterion"": ""gini""}"
+Gradient Boosting,"{""n_estimators"": 50, ""max_depth"": 3, ""min_samples_split"": 2, ""learning_rate"": 0.05, ""criterion"": ""friedman_mse""}"
+XGBoost,"{""n_estimators"": 50, ""max_depth"": 3, ""learning_rate"": 0.05, ""gamma"": null}"
+SVM,"{""C"": 10, ""gamma"": ""scale"", ""kernel"": ""rbf""}"
+KNN,"{""n_neighbors"": 3, ""weights"": ""distance"", ""metric"": ""euclidean""}"
+Decision Tree,"{""max_depth"": null, ""min_samples_split"": 2, ""criterion"": ""gini""}"
