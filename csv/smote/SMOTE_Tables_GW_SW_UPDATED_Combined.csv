@@ -1,0 +1,73 @@
+Water_Type,Evaluation,Model,Pipeline Stage,Accuracy,F1 Score,MCC,4-Fold CV F1 (Stage C only)
+Groundwater,Held-out test set,Random Forest,A: Raw,0.889,0.877,0.85,
+Groundwater,Held-out test set,Random Forest,B: +Gaussian,1,1,1,
+Groundwater,Held-out test set,Random Forest,C: +Gauss+SMOTE,1,1,1,
+Groundwater,Held-out test set,Gradient Boosting,A: Raw,1,1,1,
+Groundwater,Held-out test set,Gradient Boosting,B: +Gaussian,1,1,1,
+Groundwater,Held-out test set,Gradient Boosting,C: +Gauss+SMOTE,0.889,0.889,0.857,
+Groundwater,Held-out test set,SVM,A: Raw,0.889,0.877,0.85,
+Groundwater,Held-out test set,SVM,B: +Gaussian,0.889,0.877,0.85,
+Groundwater,Held-out test set,SVM,C: +Gauss+SMOTE,0.889,0.877,0.85,
+Groundwater,Held-out test set,KNN,A: Raw,0.556,0.556,0.34,
+Groundwater,Held-out test set,KNN,B: +Gaussian,1,1,1,
+Groundwater,Held-out test set,KNN,C: +Gauss+SMOTE,1,1,1,
+Groundwater,Held-out test set,Decision Tree,A: Raw,1,1,1,
+Groundwater,Held-out test set,Decision Tree,B: +Gaussian,1,1,1,
+Groundwater,Held-out test set,Decision Tree,C: +Gauss+SMOTE,1,1,1,
+Groundwater,Held-out test set,XGBoost,A: Raw,1,1,1,
+Groundwater,Held-out test set,XGBoost,B: +Gaussian,1,1,1,
+Groundwater,Held-out test set,XGBoost,C: +Gauss+SMOTE,1,1,1,
+Surface Water,Held-out test set,Random Forest,A: Raw,0.889,0.84,0.822,
+Surface Water,Held-out test set,Random Forest,B: +Gaussian,0.889,0.84,0.822,
+Surface Water,Held-out test set,Random Forest,C: +Gauss+SMOTE,0.889,0.84,0.822,
+Surface Water,Held-out test set,Gradient Boosting,A: Raw,0.889,0.84,0.822,
+Surface Water,Held-out test set,Gradient Boosting,B: +Gaussian,0.889,0.84,0.822,
+Surface Water,Held-out test set,Gradient Boosting,C: +Gauss+SMOTE,0.778,0.873,0.72,
+Surface Water,Held-out test set,SVM,A: Raw,0.667,0.61,0.433,
+Surface Water,Held-out test set,SVM,B: +Gaussian,0.667,0.61,0.433,
+Surface Water,Held-out test set,SVM,C: +Gauss+SMOTE,0.667,0.61,0.433,
+Surface Water,Held-out test set,KNN,A: Raw,0.778,0.737,0.65,
+Surface Water,Held-out test set,KNN,B: +Gaussian,0.778,0.737,0.65,
+Surface Water,Held-out test set,KNN,C: +Gauss+SMOTE,0.778,0.737,0.65,
+Surface Water,Held-out test set,Decision Tree,A: Raw,0.889,0.937,0.845,
+Surface Water,Held-out test set,Decision Tree,B: +Gaussian,0.889,0.937,0.845,
+Surface Water,Held-out test set,Decision Tree,C: +Gauss+SMOTE,1,1,1,
+Surface Water,Held-out test set,XGBoost,A: Raw,0.667,0.63,0.411,
+Surface Water,Held-out test set,XGBoost,B: +Gaussian,0.667,0.63,0.411,
+Surface Water,Held-out test set,XGBoost,C: +Gauss+SMOTE,0.556,0.526,0.274,
+Groundwater,Training set,Random Forest,A: Raw,1,1,1,—
+Groundwater,Training set,Random Forest,B: +Gaussian,1,1,1,—
+Groundwater,Training set,Random Forest,C: +Gauss+SMOTE,1,1,1,1
+Groundwater,Training set,Gradient Boosting,A: Raw,1,1,1,—
+Groundwater,Training set,Gradient Boosting,B: +Gaussian,1,1,1,—
+Groundwater,Training set,Gradient Boosting,C: +Gauss+SMOTE,1,1,1,0.985
+Groundwater,Training set,SVM,A: Raw,0.97,0.97,0.958,—
+Groundwater,Training set,SVM,B: +Gaussian,1,1,1,—
+Groundwater,Training set,SVM,C: +Gauss+SMOTE,1,1,1,1
+Groundwater,Training set,KNN,A: Raw,0.909,0.914,0.879,—
+Groundwater,Training set,KNN,B: +Gaussian,1,1,1,—
+Groundwater,Training set,KNN,C: +Gauss+SMOTE,1,1,1,0.971
+Groundwater,Training set,Decision Tree,A: Raw,1,1,1,—
+Groundwater,Training set,Decision Tree,B: +Gaussian,1,1,1,—
+Groundwater,Training set,Decision Tree,C: +Gauss+SMOTE,1,1,1,1
+Groundwater,Training set,XGBoost,A: Raw,1,1,1,—
+Groundwater,Training set,XGBoost,B: +Gaussian,1,1,1,—
+Groundwater,Training set,XGBoost,C: +Gauss+SMOTE,1,1,1,0.954
+Surface Water,Training set,Random Forest,A: Raw,1,1,1,—
+Surface Water,Training set,Random Forest,B: +Gaussian,1,1,1,—
+Surface Water,Training set,Random Forest,C: +Gauss+SMOTE,1,1,1,0.969
+Surface Water,Training set,Gradient Boosting,A: Raw,1,1,1,—
+Surface Water,Training set,Gradient Boosting,B: +Gaussian,1,1,1,—
+Surface Water,Training set,Gradient Boosting,C: +Gauss+SMOTE,1,1,1,1
+Surface Water,Training set,SVM,A: Raw,1,1,1,—
+Surface Water,Training set,SVM,B: +Gaussian,1,1,1,—
+Surface Water,Training set,SVM,C: +Gauss+SMOTE,1,1,1,0.969
+Surface Water,Training set,KNN,A: Raw,1,1,1,—
+Surface Water,Training set,KNN,B: +Gaussian,1,1,1,—
+Surface Water,Training set,KNN,C: +Gauss+SMOTE,1,1,1,0.969
+Surface Water,Training set,Decision Tree,A: Raw,1,1,1,—
+Surface Water,Training set,Decision Tree,B: +Gaussian,1,1,1,—
+Surface Water,Training set,Decision Tree,C: +Gauss+SMOTE,1,1,1,0.992
+Surface Water,Training set,XGBoost,A: Raw,0.97,0.955,0.949,—
+Surface Water,Training set,XGBoost,B: +Gaussian,1,1,1,—
+Surface Water,Training set,XGBoost,C: +Gauss+SMOTE,1,1,1,0.972

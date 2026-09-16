@@ -1,0 +1,19 @@
+Model,Pipeline Stage,Accuracy,F1 Score,MCC
+Random Forest,A: Raw,0.889,0.84,0.822
+Random Forest,B: +Gaussian,0.889,0.84,0.822
+Random Forest,C: +Gauss+SMOTE,0.889,0.84,0.822
+Gradient Boosting,A: Raw,0.889,0.84,0.822
+Gradient Boosting,B: +Gaussian,0.889,0.84,0.822
+Gradient Boosting,C: +Gauss+SMOTE,0.778,0.873,0.72
+SVM,A: Raw,0.667,0.61,0.433
+SVM,B: +Gaussian,0.667,0.61,0.433
+SVM,C: +Gauss+SMOTE,0.667,0.61,0.433
+KNN,A: Raw,0.778,0.737,0.65
+KNN,B: +Gaussian,0.778,0.737,0.65
+KNN,C: +Gauss+SMOTE,0.778,0.737,0.65
+Decision Tree,A: Raw,0.889,0.937,0.845
+Decision Tree,B: +Gaussian,0.889,0.937,0.845
+Decision Tree,C: +Gauss+SMOTE,1,1,1
+XGBoost,A: Raw,0.667,0.63,0.411
+XGBoost,B: +Gaussian,0.667,0.63,0.411
+XGBoost,C: +Gauss+SMOTE,0.556,0.526,0.274
